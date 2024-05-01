@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>757bf08143e81b944980afd1b4725753</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2024-05-01T02:40:19.2629525+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f112ea85a59e2b545b630a3d38bce334</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2024-05-01T02:40:19.2629525+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6a834ad3fe4eec34c8e3937b264d7e5d</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2024-05-01T02:40:19.2629525+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ebed597574603a44ba51e2e34eb24c5f</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2024-05-01T02:40:19.2629525+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>893030b2ad9509246b164ed2c0c64b89</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2024-05-01T02:40:19.2629525+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>27ae27d13406655499ddcd03984369bd</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2024-05-01T02:40:19.2639533+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f9ac216f0eb04754b1d938aac6380b31</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/Scripts/ActionBasedControllerManager.cs</fileName>
+    <timeStamp>2024-04-11T19:44:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>717c12e2a4cfe764ab2580b1135e10fd</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/Scripts/DestroySelf.cs</fileName>
+    <timeStamp>2024-04-11T19:44:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9b1e8c997df241c1a67045eeac79b41b</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/Scripts/DynamicMoveProvider.cs</fileName>
+    <timeStamp>2024-04-11T19:44:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ef0e4723b64c884699a375196c13ac0</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/Scripts/GazeInputManager.cs</fileName>
+    <timeStamp>2024-04-11T19:44:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>956dd6cf70eaca449a45b6a95b96c8c1</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/Scripts/ObjectSpawner.cs</fileName>
+    <timeStamp>2024-04-11T19:44:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>07b3638c2f5db5b479ff24c2859713d4</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/Scripts/XRPokeFollowAffordance.cs</fileName>
+    <timeStamp>2024-04-11T19:44:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a907ece591e731e49b5d7be45f089972</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.4/XR Device Simulator/Scripts/XRDeviceSimulatorControllerUI.cs</fileName>
+    <timeStamp>2024-04-11T19:44:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f35ac646ecbef4ece8c3eac9e74e1828</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.4/XR Device Simulator/Scripts/XRDeviceSimulatorHandsUI.cs</fileName>
+    <timeStamp>2024-04-11T19:44:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e8b922481d9264546b97958b2c7cf0a0</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.4/XR Device Simulator/Scripts/XRDeviceSimulatorUI.cs</fileName>
+    <timeStamp>2024-04-11T19:44:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ba6ff5e7c92519444bc2a7ca46558963</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/DemoSceneAssets/Scripts/IncrementUIText.cs</fileName>
+    <timeStamp>2024-04-11T19:44:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef67ceb22b2224643a2d5004fc2a678a</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/Editor/Scripts/StarterAssetsSampleProjectValidation.cs</fileName>
+    <timeStamp>2024-04-11T19:44:56+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
